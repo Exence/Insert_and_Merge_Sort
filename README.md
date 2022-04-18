@@ -5,3 +5,5 @@ Write a program that splits the entire numerical sequence of random numbers from
 
 # Resources
 SFML-2.5.1 +
+
+Download "template-sfml2.5.1-win-ping-pong" and change "main.cpp"
